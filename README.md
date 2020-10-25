@@ -65,6 +65,6 @@ Sync the files. This can take a while depending on sample rate. Once synced, the
 
 * [Smith-Waterman Local Alignment Algorithm](https://en.wikipedia.org/wiki/Smith%E2%80%93Waterman_algorithm)
 
-* [Hirschberg's Space Efficiency Algorithm for the Needleman-Wunsch/Smith-Waterman Local Alignment Algorithm](https://en.wikipedia.org/wiki/Hirschberg%27s_algorithm)
+* [Hirschberg's Space Efficiency Algorithm for the Needleman-Wunsch/Smith-Waterman Alignment Algorithms](https://en.wikipedia.org/wiki/Hirschberg%27s_algorithm)
 
 * [Libsndfile library used to import .WAV files](http://www.mega-nerd.com/libsndfile/)
